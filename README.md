@@ -41,4 +41,4 @@ implementation alg from scratch in python
 
 # Deep Learning
 
-[AdamOptimizer](https://github.com/AbdelrahmanShahrour/implementation-from-scratch/blob/main/deep%20learning/AdamOptimizer.py)
+[AdamOptimizer](https://github.com/AbdelrahmanShahrour/implementation-from-scratch/blob/main/deep%20learning/AdamOptimizer.py) 
