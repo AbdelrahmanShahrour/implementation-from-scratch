@@ -6,6 +6,8 @@ implementation alg from scratch in python
 
 [QuickSort](https://github.com/AbdelrahmanShahrour/implementation-from-scratch/tree/main/Algorithms/QuickSort)
 
+[leetcode repo](https://github.com/AbdelrahmanShahrour/leetcode)
+
 # DataStructure
 [BinarySearchTree](https://github.com/AbdelrahmanShahrour/implementation-from-scratch/tree/main/data%20structure/BinarySearchTree)
 
